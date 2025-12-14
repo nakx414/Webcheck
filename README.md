@@ -1,4 +1,4 @@
-# Webcheck
+# index.html
 <!DOCTYPE html>
 <html lang="ko">
 <head>
